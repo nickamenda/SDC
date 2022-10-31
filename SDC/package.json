@@ -1,0 +1,19 @@
+{
+  "name": "sdc",
+  "version": "1.0.0",
+  "description": "sdc",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Koopa-Kingdom/SDC.git"
+  },
+  "author": "Team Bowser",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Koopa-Kingdom/SDC/issues"
+  },
+  "homepage": "https://github.com/Koopa-Kingdom/SDC#readme"
+}
